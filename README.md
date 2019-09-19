@@ -56,4 +56,4 @@ private void index(){
 }
 ```
 
-![NKFUST](nkfust.g "第一科大")
+![NKFUST](three.png "三眼怪")
