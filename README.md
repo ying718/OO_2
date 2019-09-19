@@ -56,4 +56,4 @@ private void index(){
 }
 ```
 
-![NKFUST](nkfust.jpg "第一科大")
+![NKFUST](nkfust.g "第一科大")
