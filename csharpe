@@ -1,4 +1,4 @@
-```java
+'''java
 class CTriangle extends CShape
 {
     protected double a;
@@ -19,4 +19,4 @@ class CTriangle extends CShape
     }
 
 }
-```
+'''
