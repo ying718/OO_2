@@ -1,5 +1,4 @@
 
-```java
 class CTriangle extends CShape
 {
     protected double a;
@@ -17,4 +16,3 @@ class CTriangle extends CShape
         System.out.println("area="+0.5*a*b);
     }
 }
-```
