@@ -22,7 +22,6 @@ class Rectangle implements Shape
   {
   return "Area = ";
   }
-
 }
 
 class Triangle implements Shape
@@ -34,12 +33,12 @@ class Triangle implements Shape
     base = b;
     height = h;
   }
-
   public void getArea()
   {
     System.out.println("Triangle ="+base*height/2);
   }
-  public String toString (){
+  public String toString()
+  {
     return "Area = ";
   }
 }
