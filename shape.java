@@ -1,6 +1,3 @@
-
-
-
 interface Shape
 {
   abstract void getArea()
