@@ -20,7 +20,7 @@ class Rectangle implements Shape
 
   public String toString()
   {
-  return "Area = ";
+    return "Area = ";
   }
 }
 
@@ -45,11 +45,11 @@ class Triangle implements Shape
 
 public class app11
 {
-	public static void main (String args[])
-	{
-		Rectangle rec = new Rectangle(10,20);
-		rec.getarea();
-		Triangle tri = new Triangle(10,20):
-		tri.getarea();
-	}
+  public static void main (String args[])
+  {
+    Rectangle rec = new Rectangle(10,20);
+    red.getarea();
+    Triangle tri = new Triangle(10,20);
+    tri.getarea();
+  }
 }
