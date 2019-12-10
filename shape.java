@@ -48,7 +48,7 @@ public class app11
   public static void main (String args[])
   {
     Rectangle rec = new Rectangle(10,20);
-    red.getarea();
+    rec.getarea();
     Triangle tri = new Triangle(10,20);
     tri.getarea();
   }
